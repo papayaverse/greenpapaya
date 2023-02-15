@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/papayaverse/greenpapaya#readme",
   "dependencies": {
-    "@infura/sdk": "^2.1.5"
+    "@infura/sdk": "^2.1.5",
+    "dotenv": "^16.0.3"
   }
 }
